@@ -1,0 +1,23 @@
+{
+  "name": "esm-444",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --require esm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliver----/esm-444.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliver----/esm-444/issues"
+  },
+  "homepage": "https://github.com/oliver----/esm-444#readme",
+  "devDependencies": {
+    "esm": "^3.0.44",
+    "tape": "^4.9.0"
+  }
+}
